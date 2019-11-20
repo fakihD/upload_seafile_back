@@ -1,0 +1,28 @@
+{
+  "name": "upload_seafile_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakihD/upload_seafile_back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakihD/upload_seafile_back/issues"
+  },
+  "homepage": "https://github.com/fakihD/upload_seafile_back#readme",
+  "dependencies": {
+    "node-seafile": "^1.2.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
